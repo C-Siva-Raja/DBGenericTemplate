@@ -1,0 +1,42 @@
+
+
+root { 
+    display: block;
+}
+
+.ADBackStyle
+{
+	background: #CDC5BF;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 4px;
+	border: 1px solid #545454;
+/*        height : 168px;*/
+       padding-left: 10px;
+}
+
+.ADboxwidth
+{
+    width:150px;
+}
+
+form.RegAccess em
+{
+    color: red;
+}
+
+.hilight { margin: 1em; border-collapse: collapse; }
+.hilight th td { padding: .3em; border: 1px #ccc solid; }
+.FancyTableth { background: #fc9; }
+.FancyTabletb { background: #9cf; }
+#highlight tr.hilight { background: #c9f; }
+
+.Rpt_Header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #ffffff;
+}
+.Rpt_body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}

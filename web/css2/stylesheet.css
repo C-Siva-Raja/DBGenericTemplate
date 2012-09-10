@@ -1,0 +1,111 @@
+
+
+
+body {
+    font-family:  Calibri;
+    font-size: 12px;
+    padding: 0px;
+/*    color: white;*/
+   
+    /*   width: 650px;*/
+}
+.link{
+    font:12px calibri;
+    font-weight:  bold;   
+    color: black;
+
+}
+
+.bgclr{
+    background-color: black;
+}
+
+h1 {
+    letter-spacing: 6px;
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #25587E;
+}
+
+h2 {
+    text-align: left;
+    letter-spacing: 6px;
+    font-size: 1.4em;  
+    font-weight: normal;
+    width: 450px;
+}
+h5{
+    font-weight:  bold;      
+}
+h3{
+    font-weight:  bold;   
+   
+}
+
+table {    
+    align :left;
+    padding: 0px;
+/*    background-color:white;*/
+    background-color:#EBEBFF;
+    font-family: sans-serif;
+
+}
+
+/*td {
+    font:12px Calibri;
+    color: black;        
+}*/
+
+a {
+    font:14px Calibri;
+    color:#25587E;
+    text-decoration: none;   
+}
+.cyan{
+    font:12px Calibri;
+    color:#003399;
+    font-weight: bold;   
+}
+.cyanwithoubold{
+    font:17px Calibri;
+    color:#003399;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.popupBox {
+    position: absolute;
+    top: 170px;
+    left: 140px;
+}
+.marquee{
+    font:bold;
+}
+.subHead{
+    color:#25587E;
+    font:18px Calibri;
+    font-weight: bold; 
+    background-color:#7ba9ce;
+}
+.tabBody{
+    color:#25587E;
+    font:14px Calibri;
+/*    font-weight: bold; */
+    background-color:#ccccff;    
+}
+.subHeading{
+    color:#25587E;
+    font:18px Calibri;
+    font-weight: bold;  
+}
+
+.subSubHeading{
+    color:#25587E;
+    font:14px Calibri;
+    font-weight: bold;  
+}
+.textarea {
+    font:14px Calibri;
+    text-decoration: none;   
+}
